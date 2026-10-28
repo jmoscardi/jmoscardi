@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Jorge 👋</h1>
 
-<!--
-**jmoscardi/jmoscardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Front-end+Lead;TALL+stack+%C2%B7+React+%C2%B7+Tailwind;15%2B+years+building+for+the+web" alt="Typing intro" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<a href="https://www.linkedin.com/in/jmoscardi"><img src="https://img.shields.io/badge/LinkedIn-jmoscardi-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/Based%20in-Buenos%20Aires-74ACDF?style=flat" alt="Buenos Aires" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+Front-end Lead at **Valida** since 2025, building identity-verification products with the TALL stack.
+
+I've been building for the web since 2009: twelve years at **Promaker**, a digital agency in Buenos Aires, where I grew from front-end developer to front-end lead and later partner, and ten years as eCommerce specialist for **Mixte Pijamas** (Brazil), running their WooCommerce store.
+
+- 🎨 I enjoy SVG animation and advanced CSS
+- 🌱 Currently deepening my React skills
+- 🤖 Exploring AI-assisted development workflows ([mejora-prompts-tall](https://github.com/jmoscardi/mejora-prompts-tall))
+
+## Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,php,tailwind,react,js,html,css,wordpress,astro,bootstrap,git,vscode" alt="Tech stack" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat&logo=livewire&logoColor=white" alt="Livewire" />
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat&logo=alpinedotjs&logoColor=black" alt="Alpine.js" />
+  <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Blade"  />
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white" alt="WooCommerce" />
+</p>
+
+## Languages
+
+🇦🇷 Spanish (native) · 🇬🇧 English (advanced) · 🇧🇷 Portuguese (basic)
