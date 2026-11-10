@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jorge 👋</h1>
+<h1 align="center">Front-end Lead · TALL stack & advanced CSS</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Front-end+Lead;TALL+stack+%C2%B7+React+%C2%B7+Tailwind;15%2B+years+building+for+the+web" alt="Typing intro" />
@@ -11,7 +11,7 @@
 
 ## About me
 
-Front-end Lead at **Valida** since 2025, building identity-verification products with the TALL stack.
+Building identity-verification products with the TALL stack at **Valida** since 2025.
 
 I've been building for the web since 2009: twelve years at **Promaker**, a digital agency in Buenos Aires, where I grew from front-end developer to front-end lead and later partner, and ten years as eCommerce specialist for **Mixte Pijamas** (Brazil), running their WooCommerce store.
 
