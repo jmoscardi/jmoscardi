@@ -1,10 +1,6 @@
 <h1 align="center">Front-end Lead · TALL stack & advanced CSS</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=Front-end+Lead;TALL+stack+%C2%B7+React+%C2%B7+Tailwind;15%2B+years+building+for+the+web" alt="Typing intro" />
-</p>
-
-<p align="center">
 <a href="https://www.linkedin.com/in/jmoscardi"><img src="https://img.shields.io/badge/LinkedIn-jmoscardi-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <img src="https://img.shields.io/badge/Based%20in-Buenos%20Aires-74ACDF?style=flat" alt="Buenos Aires" />
 </p>
